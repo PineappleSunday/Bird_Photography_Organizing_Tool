@@ -1,0 +1,23 @@
+# Python-specific files to ignore
+photoTools/
+.venv/
+__pycache__/
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Example photos and test files
+example_photos/
+test_photos/    
+Photos_for_Test/
+Test Photos Backup/
+test_images/
+
+# Image files to ignore
+*.jpg
+*.jpeg
+*.png
+*.orf
+*.cr2
+*.nef
